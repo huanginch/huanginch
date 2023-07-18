@@ -1,6 +1,6 @@
 - Hi, I’m int
 - I’m interested in Frontend and node.js
-- I’m currently learning Web techniques, Software testing and Bioinformatics
+- I’m currently learning Web techniques and Software testing
 - my codepen: https://codepen.io/intHuang
 - my blog: https://inthuang.tw/
 - my mail: huanginch329@gmail.com 
